@@ -1,5 +1,7 @@
 # Metaverse
 
+[![Metaverse Preview](public/metaverse-screenshot.png)](https://metaverse-dv192.vercel.app/)
+
 Welcome to Metaverse, a responsive website built with Next.js, HTML, CSS, and JavaScript. The project utilizes React Hooks for state management, Framer Motion for animations, and Tailwind CSS for styling.
 
 ## Getting Started
